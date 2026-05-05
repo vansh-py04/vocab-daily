@@ -21,8 +21,10 @@ local.properties
 # Logs
 *.log
 
+# Local dev / ad-hoc tooling
+/tools/
+
 # OS
 .DS_Store
 Thumbs.db
 desktop.ini
-
